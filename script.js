@@ -3,7 +3,7 @@ const steps=[
 {t:"¡Hola ñaño! 👋 Soy Formalízate YA. Te ayudaré a formalizar tu negocio paso a paso. ¿Cuál es tu rubro?",o:["🍗 Comidas","🛒 Bodega","👕 Ropa","🔧 Servicios","🌱 Agricultura"]},
 {t:"¡Excelente! ¿Ya tienes RUC?",o:["Sí","No"]},
 {t:"Si aún no tienes RUC, primero debes inscribirte como persona natural con negocio. Más información: https://www.gob.pe/284-sacar-ruc-persona-natural",o:["Continuar"]},
-{t:"¿Cuánto vendes al mes?",o:["Menos de S/5000","S/5000-S/8000","Más de S/8000"]},
+{t:"¿Cuánto vendes al mes?",o:["Menos de S/5000","S/5000-S/8000"]},
 {t:"Por tus ingresos, el NRUS podría ser una buena opción. ¿Deseas conocerlo?",o:["Sí"]},
 {t:"El NRUS está pensado para pequeños negocios. Revisa la información oficial: https://emprender.sunat.gob.pe/",o:["Seguir"]},
 {t:"Ahora obtén tu Clave SOL para realizar trámites virtuales.",o:["Listo"]},
